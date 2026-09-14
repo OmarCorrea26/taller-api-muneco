@@ -162,3 +162,10 @@ bash scripts/levantar_todo.sh    # macOS / Linux
 ```
 
 Abre http://localhost:8000.
+
+---
+
+## Licencia
+
+El código se publica bajo licencia [MIT](LICENSE): puedes usarlo, adaptarlo y compartirlo, conservando el
+aviso de copyright.
