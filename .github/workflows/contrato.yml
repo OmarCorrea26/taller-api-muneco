@@ -1,0 +1,21 @@
+# .github/workflows/contrato.yml
+# Integracion continua: en cada push y cada Pull Request, GitHub instala el proyecto
+# y corre las pruebas de contrato. Si tu etapa rompe el contrato, el PR queda en rojo
+# y no se puede mezclar hasta corregirlo.
+name: Pruebas de contrato
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: pytest -v

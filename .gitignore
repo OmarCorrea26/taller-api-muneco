@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python y pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Salidas generadas (cada quien las produce en su maquina)
+salida/
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
