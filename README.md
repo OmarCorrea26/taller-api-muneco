@@ -112,8 +112,8 @@ La guía paso a paso (módulos 0 a 4, con checkpoints y troubleshooting) es el d
 
 | # | Etapa | Parte del muñeco | Responsable |
 |---|-------|------------------|-------------|
-| 1 | validar | cabeza | |
-| 2 | limpiar | torso | |
+| 1 | validar | cabeza | Jessika |
+| 2 | limpiar | torso | Alejandra |
 | 3 | calibrar | brazo izquierdo | |
 | 4 | indicadores | brazo derecho | |
 | 5 | precision | pierna izquierda | |
