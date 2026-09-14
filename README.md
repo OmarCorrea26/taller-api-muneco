@@ -7,6 +7,11 @@ completo cuando las seis cumplen el contrato. Es material para aprender a trabaj
 APIs: ramas, Pull Requests, revisión de código, integración continua y rebase, sobre un problema que se
 parece al trabajo real de un equipo de estadística.
 
+> [!NOTE]
+> **Los errores que veas en el historial son parte del ejercicio.** Los Pull Requests con errores, los
+> checks en rojo y los conflictos de rebase están puestos a propósito: son justo lo que el taller enseña
+> a resolver. Incluso hay un cambio de contrato planeado a mitad del taller para que aparezcan.
+
 ---
 
 ## Si llegas de afuera
