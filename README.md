@@ -114,7 +114,7 @@ La guía paso a paso (módulos 0 a 4, con checkpoints y troubleshooting) es el d
 |---|-------|------------------|-------------|
 | 1 | validar | cabeza | [@Jessikabui](https://github.com/Jessikabui) |
 | 2 | limpiar | torso | [@CyberAlBu](https://github.com/CyberAlBu) |
-| 3 | calibrar | brazo izquierdo | |
+| 3 | calibrar | brazo izquierdo |[@MaryorisPerez](https://github.com/MaryorisPerez)|
 | 4 | indicadores | brazo derecho | |
 | 5 | precision | pierna izquierda | |
 | 6 | publicar | pierna derecha | |
