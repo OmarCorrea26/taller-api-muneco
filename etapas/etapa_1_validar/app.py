@@ -54,5 +54,4 @@ def procesar(entrada: dict) -> dict:
                                 
     return {"registros": registros, "resumen": resumen} 
 
-
 app = crear_app(NUMERO, procesar)
