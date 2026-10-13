@@ -21,8 +21,8 @@ def procesar(entrada: dict) -> dict:
     Mientras esta funcion lance NotImplementedError, el muneco no tendra esta parte.
     Cuando devuelva algo con la forma equivocada, la parte saldra chueca.
     """
-    with open("fixtures/etapa_1_entrada.json", encoding="utf-8") as f:
-        entrada = json.load(f)
+    #with open("fixtures/etapa_1_entrada.json", encoding="utf-8") as f:
+    #    entrada = json.load(f)
     #print(entrada.keys())
     #print(entrada["resumen"])
     #print(entrada["registros"][0])
